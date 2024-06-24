@@ -1,0 +1,11 @@
+E:\C#\dfbzd\dfbzd\bin\Debug\dfbzd.exe.config
+E:\C#\dfbzd\dfbzd\bin\Debug\dfbzd.exe
+E:\C#\dfbzd\dfbzd\bin\Debug\dfbzd.pdb
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.csproj.AssemblyReference.cache
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.csproj.SuggestedBindingRedirects.cache
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.Form1.resources
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.Properties.Resources.resources
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.csproj.GenerateResource.cache
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.csproj.CoreCompileInputs.cache
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.exe
+E:\C#\dfbzd\dfbzd\obj\Debug\dfbzd.pdb

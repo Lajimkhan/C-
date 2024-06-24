@@ -1,0 +1,9 @@
+E:\C#\etbergb\etbergb\bin\Debug\etbergb.exe.config
+E:\C#\etbergb\etbergb\bin\Debug\etbergb.exe
+E:\C#\etbergb\etbergb\bin\Debug\etbergb.pdb
+E:\C#\etbergb\etbergb\obj\Debug\etbergb.csproj.AssemblyReference.cache
+E:\C#\etbergb\etbergb\obj\Debug\etbergb.Properties.Resources.resources
+E:\C#\etbergb\etbergb\obj\Debug\etbergb.csproj.GenerateResource.cache
+E:\C#\etbergb\etbergb\obj\Debug\etbergb.csproj.CoreCompileInputs.cache
+E:\C#\etbergb\etbergb\obj\Debug\etbergb.exe
+E:\C#\etbergb\etbergb\obj\Debug\etbergb.pdb
