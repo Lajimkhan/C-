@@ -1,0 +1,6 @@
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Solution1\MethodModifier\bin\Debug\MethodModifier.exe.config
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Solution1\MethodModifier\bin\Debug\MethodModifier.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Solution1\MethodModifier\bin\Debug\MethodModifier.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Solution1\MethodModifier\obj\Debug\MethodModifier.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Solution1\MethodModifier\obj\Debug\MethodModifier.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Solution1\MethodModifier\obj\Debug\MethodModifier.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessDemo1", "AccessDemo1\AccessDemo1.csproj", "{B3ECE97C-CCD2-47F6-919F-BB08DA339DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessDemo2", "AccessDemo2\AccessDemo2.csproj", "{0631D515-92CB-4A2F-84A7-7846E103B63C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodModifier", "MethodModifier\MethodModifier.csproj", "{17A230CD-0B85-4B3B-8C5A-A2F0A5F6B722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3ECE97C-CCD2-47F6-919F-BB08DA339DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ECE97C-CCD2-47F6-919F-BB08DA339DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ECE97C-CCD2-47F6-919F-BB08DA339DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ECE97C-CCD2-47F6-919F-BB08DA339DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0631D515-92CB-4A2F-84A7-7846E103B63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0631D515-92CB-4A2F-84A7-7846E103B63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0631D515-92CB-4A2F-84A7-7846E103B63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0631D515-92CB-4A2F-84A7-7846E103B63C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A230CD-0B85-4B3B-8C5A-A2F0A5F6B722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A230CD-0B85-4B3B-8C5A-A2F0A5F6B722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A230CD-0B85-4B3B-8C5A-A2F0A5F6B722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A230CD-0B85-4B3B-8C5A-A2F0A5F6B722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
